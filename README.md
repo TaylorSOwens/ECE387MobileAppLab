@@ -3,5 +3,5 @@ A basic mobile app developed in Android Studio that increments a counter by 5 wh
 
 Video of Emulated App: https://youtu.be/CnbsaMmVRPo
 
-**Note**
+**Note:**
 Was Not able to borrow an Android before submitting.
